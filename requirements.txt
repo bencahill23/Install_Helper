@@ -3,6 +3,5 @@ folium
 pyproj
 lxml
 bs4
-xml.etree.ElementTree
 streamlit_folium
 
