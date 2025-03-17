@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="http://ogr.maptools.org/" xmlns:ogr="http://ogr.maptools.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml" elementFormDefault="qualified" version="1.0">
+<xs:import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/2.1.2/feature.xsd"/>
+<xs:element name="FeatureCollection" type="ogr:FeatureCollectionType" substitutionGroup="gml:_FeatureCollection"/>
+<xs:complexType name="FeatureCollectionType">
+  <xs:complexContent>
+    <xs:extension base="gml:AbstractFeatureCollectionType">
+      <xs:attribute name="lockId" type="xs:string" use="optional"/>
+      <xs:attribute name="scope" type="xs:string" use="optional"/>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:element name="DOLL_lys" type="ogr:DOLL_lys_Type" substitutionGroup="gml:_Feature"/>
+<xs:complexType name="DOLL_lys_Type">
+  <xs:complexContent>
+    <xs:extension base="gml:AbstractFeatureType">
+      <xs:sequence>
+        <xs:element name="geometryProperty" type="gml:PointPropertyType" nillable="true" minOccurs="0" maxOccurs="1"/>
+        <xs:element name="historisk" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="kilde" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="vej" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="straeknr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="taendpl" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="draf_lk_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="draf_kb_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="an_utyp_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ab_utyp_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="an_prarma" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:decimal">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="an_opf" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="an_iso" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="an_notat" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="styklist" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ar_text" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ar_daem" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ar_hoejd" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:decimal">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ar_notat" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_text" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_utyp_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_antal" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_bruef" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_brtid" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lk_notat" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="vvo" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="notat" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="sbsyspro" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="raadgiv" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="entrepr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="garaarm" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="garaentr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="garastyr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="afskaerm" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="driver" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="lumpakke" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="armfarve" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="optlinse" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="armnr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="styrenh" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="styrid" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="mastprtp" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="mastopls" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="ejer_nr" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="id_serial" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="garastil" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="kunde_id" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="trnsbesk" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="fareklas" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="indt_medt" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="niveau" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="noejagt" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="db_klar" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:integer">
+              <xs:totalDigits value="10"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+</xs:schema>

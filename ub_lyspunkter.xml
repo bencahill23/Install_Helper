@@ -1,0 +1,2026 @@
+
+<wfs:FeatureCollection xmlns="http://www.opengis.net/wfs" xmlns:wfs="http://www.opengis.net/wfs" xmlns:spatialsuite="spatialsuite" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="spatialsuite https://kort.albertslund.dk/wfs/spatialsuite/wfs?service=WFS&version=1.0.0&request=DescribeFeatureType&typeName=spatialsuite%3Aub_raw_lyspunkter http://www.opengis.net/wfs https://kort.albertslund.dk/wfs/schemas/wfs/1.0.0/WFS-basic.xsd">
+<gml:boundedBy>
+<gml:null>unknown</gml:null>
+</gml:boundedBy>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260706">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436461</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711632.355,6175341.804</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260707">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436462</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711601.337,6175341.477</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260710">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436463</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711520.531,6175340.806</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260712">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436464</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>meget farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711472.625,6175340.546</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260720">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLed AFSK</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Led 3000K, 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436465</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711632.712,6175321.353</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20260717">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Gamle Landevej stien</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLed AFSK</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Led 3000K, 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436466</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711548.3979669,6175319.80247804</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250705">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Cityligth</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm</spatialsuite:lumpakke>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436467</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.50 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711230.25534994,6174471.64601967</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250706">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>31</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm</spatialsuite:lumpakke>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436468</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.50 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711231.45154674,6174497.69136791</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250709">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436469</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.50 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711235.33801984,6174577.78528766</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250719">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Small Copenhagen 16W</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436470</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711120.80410205,6174848.53232529</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20280713">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida - Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tranehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>50</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436471</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710738.171,6175086.528</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20280715">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Tranehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436472</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710723.195,6175036.518</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20280705">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida - Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylght</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436473</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710875.189,6175097.151</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20280710">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436474</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710869.978,6175047.482</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20280708">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436475</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710868.49,6174993.94</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270718">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Falkehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436476</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711024.514,6174983.04</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270720">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Falkehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436477</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711021.827,6174929.809</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270706">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Fasanhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436478</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711158.021,6175000.191</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270708">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Fasanhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436479</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711155.421,6174948.265</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270714">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Glentehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436480</spatialsuite:id_serial>
+<spatialsuite:garastil>Bravida</spatialsuite:garastil>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711280.664,6174985.055</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20270711">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Glentehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436481</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711277.529,6174920.885</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250715">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Rytterhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Brravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436482</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711241.38508896,6174739.87067857</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250718">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Rytterhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436483</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711237.52531675,6174666.98871835</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250722">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436484</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711116.77288525,6174771.78920918</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250725">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436485</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711113.18401598,6174696.59325802</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250748">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436486</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711231.2662492,6174658.55467056</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.902">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Albertslund</spatialsuite:kilde>
+<spatialsuite:vej>Ballerupstien</spatialsuite:vej>
+<spatialsuite:straeknr>33037</spatialsuite:straeknr>
+<spatialsuite:taendpl>231216</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>11</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>11</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2016</spatialsuite:an_opf>
+<spatialsuite:an_notat>Loftmontage</spatialsuite:an_notat>
+<spatialsuite:ar_text>Lysrørarmatur</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen dæmpning</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>0.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>Lysrør 40W</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>20</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>44</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436487</spatialsuite:id_serial>
+<spatialsuite:kunde_id>110</spatialsuite:kunde_id>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709907.9139252,6175679.48747291</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250745">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436488</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711151.90653338,6174662.26028007</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250740">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>6.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436489</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711055.10503696,6174666.99935266</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250734">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>6.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436490</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710939.2371228,6174653.39256375</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250739">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436491</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711030.06083564,6174667.18702772</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250729">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Jærgerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436492</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711003.68823778,6174786.09505564</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20250732">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Jærgerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:garaentr>Bravida</spatialsuite:garaentr>
+<spatialsuite:lumpakke>1950/1580 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436493</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710999.61246401,6174706.13096362</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240762">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Parkled Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full Prog. LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436494</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709452.96177015,6174405.69469486</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240746">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lystryring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage Top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436495</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709495.12999622,6174326.59184414</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240751">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:lk_text>LED. 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:driver>Xitanium Full Prog. LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra Kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>Top montage top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436496</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709492.38864408,6174184.90964423</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240745">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Philllips ParkLED Asym</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Brfavida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra Kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage top Ø900mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436497</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709515.65083506,6174330.47222223</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240737">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund fosyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyringg</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 33000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436498</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709658.07331954,6174358.72040876</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240706">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Stadionstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>34 lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgarvning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage, top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436499</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709691.97651066,6174452.59288498</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240711">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Stadionstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage, top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436500</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709706.6996301,6174379.72323548</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240731">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage top, Ø90mm. Galv</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436501</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709779.28475836,6174385.94003655</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240726">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage, top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436502</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709880.06295547,6174405.89636011</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240717">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Ingen</spatialsuite:afskaerm>
+<spatialsuite:driver>Xitanium Full LED Wireme driver</spatialsuite:driver>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk, for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage, top Ø90mm. Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436503</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709940.49286938,6174427.10646794</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240715">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>ingen</spatialsuite:afskaerm>
+<spatialsuite:lumpakke>3400lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:mastprtp>DANintra kronisk for nedgravning</spatialsuite:mastprtp>
+<spatialsuite:mastopls>TOP montage top Ø90mm Galv.</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436504</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709934.26763352,6174464.99255572</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.202212090">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Albertslund Forsyning & Andel Lumen</spatialsuite:kilde>
+<spatialsuite:vej>Stadionparken</spatialsuite:vej>
+<spatialsuite:taendpl>231241</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>2</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II.</spatialsuite:an_iso>
+<spatialsuite:ar_text>Philips CPH small, Rundt board</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>5.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text/>
+<spatialsuite:lk_bruef>20</spatialsuite:lk_bruef>
+<spatialsuite:lk_notat>3000K</spatialsuite:lk_notat>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:sbsyspro>Udebelysning 2022 - Stadionparken</spatialsuite:sbsyspro>
+<spatialsuite:raadgiv>Albertslund Forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Andel Lumen</spatialsuite:entrepr>
+<spatialsuite:afskaerm>
+Enkelte armaturer i området har monteret backlight cover
+</spatialsuite:afskaerm>
+<spatialsuite:lumpakke>2000 Lumen</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Hvid (Glow)</spatialsuite:armfarve>
+<spatialsuite:optlinse>Rundt LED Board</spatialsuite:optlinse>
+<spatialsuite:armnr>BRS761 LED20-4S/830 II MDA GL CLO D9 SRG10 C10K</spatialsuite:armnr>
+<spatialsuite:mastprtp>Rosa mast 10791020-C45W, Rosa Golfarm 10792032</spatialsuite:mastprtp>
+<spatialsuite:mastopls>
+Armmontage, nedgravning, Farve C45W, Betlet, 5 meter LPH, Golfarm 0,3m
+</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436505</spatialsuite:id_serial>
+<spatialsuite:garastil>Andel Lumen</spatialsuite:garastil>
+<spatialsuite:kunde_id>22</spatialsuite:kunde_id>
+<spatialsuite:trnsbesk>Ja</spatialsuite:trnsbesk>
+<spatialsuite:fareklas>ikke farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>nøjagtigt</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.50 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">712358.01338053,6174784.26394206</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.12588495">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>DONG</spatialsuite:kilde>
+<spatialsuite:vej>DAMGÅRDSVEJ</spatialsuite:vej>
+<spatialsuite:straeknr>9214</spatialsuite:straeknr>
+<spatialsuite:taendpl>231204</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>1985</spatialsuite:an_opf>
+<spatialsuite:an_iso>Klasse II</spatialsuite:an_iso>
+<spatialsuite:styklist>5,5m. eksist.bertlet mast med MO-arm</spatialsuite:styklist>
+<spatialsuite:ar_text>MO500 Mat reflektor pos.4</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Swarco</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>5.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>2</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436506</spatialsuite:id_serial>
+<spatialsuite:kunde_id>110</spatialsuite:kunde_id>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710696.37173911,6174165.00565951</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20200108">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:vej>Kanalgaden</spatialsuite:vej>
+<spatialsuite:taendpl>231261</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2020</spatialsuite:an_opf>
+<spatialsuite:ar_text>Led spot ukendt produkt</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen dæmpning</spatialsuite:ar_daem>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>10</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436507</spatialsuite:id_serial>
+<spatialsuite:kunde_id>110</spatialsuite:kunde_id>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710910.16491067,6172774.00883392</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240795">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Louis Poulsen Skot væg</spatialsuite:ar_text>
+<spatialsuite:ar_daem>ingen</spatialsuite:ar_daem>
+<spatialsuite:lk_text>LED 3000K. 70Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>8</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertlund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:afskaerm>Halvafskærmet opal skærm</spatialsuite:afskaerm>
+<spatialsuite:lumpakke>525lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Alu</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436508</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709447.47731145,6174429.26299315</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240809">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Grønningstien - Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>4.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Focus - Turn Spot</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>4</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:lumpakke>3700lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Grå</spatialsuite:armfarve>
+<spatialsuite:armnr>Turn Spot</spatialsuite:armnr>
+<spatialsuite:mastprtp>Rosa turn mast</spatialsuite:mastprtp>
+<spatialsuite:mastopls>Turn mast. Farve WC. 5.5m. LPH</spatialsuite:mastopls>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436509</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709453.24216486,6174343.32240355</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ub_raw_lyspunkter fid="ub_raw_lyspunkter.20240788">
+<spatialsuite:historisk>0</spatialsuite:historisk>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_kb_nr>1</spatialsuite:draf_kb_nr>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Louis Poulsen Skot Væg</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>0.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 70Ra</spatialsuite:lk_text>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>8</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:raadgiv>Albertslund forsyning</spatialsuite:raadgiv>
+<spatialsuite:entrepr>Bravida</spatialsuite:entrepr>
+<spatialsuite:lumpakke>525lm.</spatialsuite:lumpakke>
+<spatialsuite:armfarve>Alu</spatialsuite:armfarve>
+<spatialsuite:ejer_nr>4</spatialsuite:ejer_nr>
+<spatialsuite:id_serial>436510</spatialsuite:id_serial>
+<spatialsuite:kunde_id>101</spatialsuite:kunde_id>
+<spatialsuite:fareklas>farlig</spatialsuite:fareklas>
+<spatialsuite:indt_medt>skematisk</spatialsuite:indt_medt>
+<spatialsuite:niveau>over terræn</spatialsuite:niveau>
+<spatialsuite:noejagt><= 0.25 m</spatialsuite:noejagt>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709444.32234327,6174448.00212379</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:db_klar>1</spatialsuite:db_klar>
+</spatialsuite:ub_raw_lyspunkter>
+</gml:featureMember>
+</wfs:FeatureCollection>

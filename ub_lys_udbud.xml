@@ -1,0 +1,2150 @@
+<wfs:FeatureCollection xmlns="http://www.opengis.net/wfs" xmlns:wfs="http://www.opengis.net/wfs" xmlns:spatialsuite="spatialsuite" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="spatialsuite https://kort.albertslund.dk/wfs/spatialsuite/wfs?service=WFS&version=1.0.0&request=DescribeFeatureType&typeName=spatialsuite%3Aubl_lyspunkter_udbud http://www.opengis.net/wfs https://kort.albertslund.dk/wfs/schemas/wfs/1.0.0/WFS-basic.xsd">
+<gml:boundedBy>
+<gml:null>unknown</gml:null>
+</gml:boundedBy>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59de">
+<spatialsuite:id_alb>20260706</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711632.355,6175341.804</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59df">
+<spatialsuite:id_alb>20260707</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711601.337,6175341.477</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e0">
+<spatialsuite:id_alb>20260710</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711520.531,6175340.806</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e1">
+<spatialsuite:id_alb>20260712</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711472.625,6175340.546</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>MO500 Mat Reflektor</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e2">
+<spatialsuite:id_alb>20260720</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711632.712,6175321.353</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLed AFSK</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Led 3000K, 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e3">
+<spatialsuite:id_alb>20260717</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711548.3979669,6175319.80247804</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Gamle Landevej stien</spatialsuite:vej>
+<spatialsuite:taendpl>231276</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLed AFSK</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Led 3000K, 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e4">
+<spatialsuite:id_alb>20250705</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711230.25534994,6174471.64601967</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Cityligth</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e5">
+<spatialsuite:id_alb>20250706</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711231.45154674,6174497.69136791</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>31</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e6">
+<spatialsuite:id_alb>20250709</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711235.33801984,6174577.78528766</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Fiskerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e7">
+<spatialsuite:id_alb>20250719</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711120.80410205,6174848.53232529</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_text>Small Copenhagen 16W</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e8">
+<spatialsuite:id_alb>20280713</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710738.171,6175086.528</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida - Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tranehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>50</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59e9">
+<spatialsuite:id_alb>20280715</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710723.195,6175036.518</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tranehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ea">
+<spatialsuite:id_alb>20280705</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710875.189,6175097.151</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida - Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylght</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59eb">
+<spatialsuite:id_alb>20280710</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710869.978,6175047.482</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ec">
+<spatialsuite:id_alb>20280708</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710868.49,6174993.94</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Rypehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ed">
+<spatialsuite:id_alb>20270718</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711024.514,6174983.04</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Falkehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ee">
+<spatialsuite:id_alb>20270720</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711021.827,6174929.809</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Falkehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ef">
+<spatialsuite:id_alb>20270706</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711158.021,6175000.191</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Fasanhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f0">
+<spatialsuite:id_alb>20270708</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711155.421,6174948.265</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Fasanhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f1">
+<spatialsuite:id_alb>20270714</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711280.664,6174985.055</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Glentehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f2">
+<spatialsuite:id_alb>20270711</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711277.529,6174920.885</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Glentehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231217</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Københavner</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f3">
+<spatialsuite:id_alb>20250715</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711241.38508896,6174739.87067857</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Rytterhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f4">
+<spatialsuite:id_alb>20250718</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711237.52531675,6174666.98871835</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Rytterhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f5">
+<spatialsuite:id_alb>20250722</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711116.77288525,6174771.78920918</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f6">
+<spatialsuite:id_alb>20250725</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711113.18401598,6174696.59325802</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Skyttehusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f7">
+<spatialsuite:id_alb>20250748</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711231.2662492,6174658.55467056</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f8">
+<spatialsuite:id_alb>902</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709907.9139252,6175679.48747291</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Albertslund</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Ballerupstien</spatialsuite:vej>
+<spatialsuite:straeknr>33037</spatialsuite:straeknr>
+<spatialsuite:taendpl>231216</spatialsuite:taendpl>
+<spatialsuite:kunde>600874828- ALBERTSLUND KOMMUNE</spatialsuite:kunde>
+<spatialsuite:kun_nr>600874828</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>1</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Vægmontage</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>11</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Vægmontage 0-4m</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>11</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Vægmontage</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2016</spatialsuite:an_opf>
+<spatialsuite:an_notat>Loftmontage</spatialsuite:an_notat>
+<spatialsuite:ar_text>Lysrørarmatur</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen dæmpning</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>0.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>Lysrør 40W</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>2</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>Lysstofrør</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>20</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>Lysstofrør, uspec.</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>44</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59f9">
+<spatialsuite:id_alb>20250745</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711151.90653338,6174662.26028007</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2021</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59fa">
+<spatialsuite:id_alb>20250740</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711055.10503696,6174666.99935266</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>6.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59fb">
+<spatialsuite:id_alb>20250734</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710939.2371228,6174653.39256375</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>6.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59fc">
+<spatialsuite:id_alb>20250739</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711030.06083564,6174667.18702772</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Teglmosevej</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59fd">
+<spatialsuite:id_alb>20250729</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">711003.68823778,6174786.09505564</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Jærgerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59fe">
+<spatialsuite:id_alb>20250732</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710999.61246401,6174706.13096362</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Jærgerhusene</spatialsuite:vej>
+<spatialsuite:taendpl>231294</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>KL. II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Small Copenhagen 16W</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Citylight</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>16</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+<spatialsuite:notat>2024-07-05</spatialsuite:notat>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_59ff">
+<spatialsuite:id_alb>20240762</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709452.96177015,6174405.69469486</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips Parkled Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a00">
+<spatialsuite:id_alb>20240746</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709495.12999622,6174326.59184414</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lystryring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a01">
+<spatialsuite:id_alb>20240751</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709492.38864408,6174184.90964423</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:lk_text>LED. 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a02">
+<spatialsuite:id_alb>20240745</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709515.65083506,6174330.47222223</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Philllips ParkLED Asym</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a03">
+<spatialsuite:id_alb>20240737</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709658.07331954,6174358.72040876</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund fosyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyringg</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 33000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a04">
+<spatialsuite:id_alb>20240706</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709691.97651066,6174452.59288498</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Stadionstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a05">
+<spatialsuite:id_alb>20240711</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709706.6996301,6174379.72323548</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Stadionstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a06">
+<spatialsuite:id_alb>20240731</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709779.28475836,6174385.94003655</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a07">
+<spatialsuite:id_alb>20240726</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709880.06295547,6174405.89636011</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a08">
+<spatialsuite:id_alb>20240717</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709940.49286938,6174427.10646794</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED Asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 80 Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a09">
+<spatialsuite:id_alb>20240715</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709934.26763352,6174464.99255572</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>2</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Parklygte</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>23</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Parklygte 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>22</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, 0-4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Phillips ParkLED asym.</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K 80Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>25</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0a">
+<spatialsuite:id_alb>202212090</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">712358.01338053,6174784.26394206</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Albertslund Forsyning & Andel Lumen</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>AK betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>AK betalingsmodel målerafregnet</spatialsuite:elaf_kb>
+<spatialsuite:vej>Stadionparken</spatialsuite:vej>
+<spatialsuite:taendpl>231241</spatialsuite:taendpl>
+<spatialsuite:kunde>Grundejerforeningen Stadionparken</spatialsuite:kunde>
+<spatialsuite:kun_nr>600874545</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>2</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Privat</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>Kl. II.</spatialsuite:an_iso>
+<spatialsuite:ar_text>Philips CPH small, Rundt board</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>5.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text/>
+<spatialsuite:lk_typ_nr>0</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_bruef>20</spatialsuite:lk_bruef>
+<spatialsuite:lk_notat>3000K</spatialsuite:lk_notat>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0b">
+<spatialsuite:id_alb>12588495</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710696.37173911,6174165.00565951</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>DONG</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>AK betalingsmodel, brændtimeberegning</spatialsuite:elaf_kb>
+<spatialsuite:vej>DAMGÅRDSVEJ</spatialsuite:vej>
+<spatialsuite:straeknr>9214</spatialsuite:straeknr>
+<spatialsuite:taendpl>231204</spatialsuite:taendpl>
+<spatialsuite:kunde>600874828- ALBERTSLUND KOMMUNE</spatialsuite:kunde>
+<spatialsuite:kun_nr>600874828</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>32</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>1985</spatialsuite:an_opf>
+<spatialsuite:an_iso>Klasse II</spatialsuite:an_iso>
+<spatialsuite:styklist>5,5m. eksist.bertlet mast med MO-arm</spatialsuite:styklist>
+<spatialsuite:ar_text>MO500 Mat reflektor pos.4</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Swarco</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>5.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>2</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>54</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0c">
+<spatialsuite:id_alb>20200108</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">710910.16491067,6172774.00883392</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Kanalgaden</spatialsuite:vej>
+<spatialsuite:taendpl>231261</spatialsuite:taendpl>
+<spatialsuite:kunde>600874828- ALBERTSLUND KOMMUNE</spatialsuite:kunde>
+<spatialsuite:kun_nr>600874828</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>1</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Vægmontage</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Vægmontage 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Vægmontage, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2020</spatialsuite:an_opf>
+<spatialsuite:ar_text>Led spot ukendt produkt</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen dæmpning</spatialsuite:ar_daem>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>10</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0d">
+<spatialsuite:id_alb>20240795</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709447.47731145,6174429.26299315</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>1</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Vægmontage</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Vægmontage 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Vægmontage, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Louis Poulsen Skot væg</spatialsuite:ar_text>
+<spatialsuite:ar_daem>ingen</spatialsuite:ar_daem>
+<spatialsuite:lk_text>LED 3000K. 70Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>8</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0e">
+<spatialsuite:id_alb>20240809</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709453.24216486,6174343.32240355</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Grønningstien - Tværstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>3</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Høj rørmast</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>33</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Høj rørmast, LED Farvet</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>32</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Armatur på stålmast, over 4m, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>4.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Focus - Turn Spot</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Lysstyring</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>4.5</spatialsuite:ar_hoejd>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>4</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>30</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+<gml:featureMember>
+<spatialsuite:ubl_lyspunkter_udbud fid="ubl_lyspunkter_udbud.fid-73dbbaf4_19513303b6f_5a0f">
+<spatialsuite:id_alb>20240788</spatialsuite:id_alb>
+<spatialsuite:wkb_geometry>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#25832">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">709444.32234327,6174448.00212379</gml:coordinates>
+</gml:Point>
+</spatialsuite:wkb_geometry>
+<spatialsuite:kilde>Bravida og Albertslund forsyning</spatialsuite:kilde>
+<spatialsuite:ejer>Albertslund Kommune</spatialsuite:ejer>
+<spatialsuite:draf_lk_nr>1</spatialsuite:draf_lk_nr>
+<spatialsuite:draf_lk>Vedligehold Bravida</spatialsuite:draf_lk>
+<spatialsuite:elaf_lk>Jysk energi - målerafregnet</spatialsuite:elaf_lk>
+<spatialsuite:draf_kb>Ikke omfattet af betalingsmodel</spatialsuite:draf_kb>
+<spatialsuite:elaf_kb>Ikke omfattet af betalingsmodel</spatialsuite:elaf_kb>
+<spatialsuite:vej>Grønningstien</spatialsuite:vej>
+<spatialsuite:taendpl>231244</spatialsuite:taendpl>
+<spatialsuite:kunde>Albertslund Kommune</spatialsuite:kunde>
+<spatialsuite:kun_nr>1</spatialsuite:kun_nr>
+<spatialsuite:kun_tnr>1</spatialsuite:kun_tnr>
+<spatialsuite:kun_typ>Kommune</spatialsuite:kun_typ>
+<spatialsuite:an_typ_nr>1</spatialsuite:an_typ_nr>
+<spatialsuite:an_typ>Vægmontage</spatialsuite:an_typ>
+<spatialsuite:an_utyp_nr>13</spatialsuite:an_utyp_nr>
+<spatialsuite:an_utyp>Vægmontage 0-4m, LED</spatialsuite:an_utyp>
+<spatialsuite:ab_utyp_nr>12</spatialsuite:ab_utyp_nr>
+<spatialsuite:ab_utyp>Vægmontage, LED</spatialsuite:ab_utyp>
+<spatialsuite:an_prarma>1.0</spatialsuite:an_prarma>
+<spatialsuite:an_opf>2022</spatialsuite:an_opf>
+<spatialsuite:an_iso>II</spatialsuite:an_iso>
+<spatialsuite:ar_text>Louis Poulsen Skot Væg</spatialsuite:ar_text>
+<spatialsuite:ar_daem>Ingen</spatialsuite:ar_daem>
+<spatialsuite:ar_hoejd>0.0</spatialsuite:ar_hoejd>
+<spatialsuite:lk_text>LED 3000K. 70Ra</spatialsuite:lk_text>
+<spatialsuite:lk_typ_nr>10</spatialsuite:lk_typ_nr>
+<spatialsuite:lk_typ>LED</spatialsuite:lk_typ>
+<spatialsuite:lk_utyp_nr>100</spatialsuite:lk_utyp_nr>
+<spatialsuite:lk_utyp>LED</spatialsuite:lk_utyp>
+<spatialsuite:lk_antal>1</spatialsuite:lk_antal>
+<spatialsuite:lk_bruef>8</spatialsuite:lk_bruef>
+<spatialsuite:lk_brtid>3950</spatialsuite:lk_brtid>
+<spatialsuite:vvo>0</spatialsuite:vvo>
+</spatialsuite:ubl_lyspunkter_udbud>
+</gml:featureMember>
+</wfs:FeatureCollection>
