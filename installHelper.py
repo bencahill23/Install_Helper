@@ -85,8 +85,8 @@ for (i,it) in enumerate(list_of_coords):
 	coord_data = it.text
 	raw_coords.append(coord_data)
 
-	roadname_data = list_of_road_names[i].text
-	road_names.append(roadname_data)
+	#roadname_data = list_of_road_names[i].text
+	#road_names.append(roadname_data)
 
 	sources_data = list_of_sources[i].text
 	sources.append(sources_data)
