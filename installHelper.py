@@ -2,6 +2,7 @@ import pprint
 import folium
 import streamlit as st
 import xml.etree.ElementTree as ET
+import pyperclip
 
 from pyproj import Transformer
 from lxml import etree
@@ -34,7 +35,7 @@ def create_map():
         marker_cluster = MarkerCluster().add_to(m)
         folium.Marker(location=[45.372, -121.6972], popup="Mt. Hood Meadows").add_to(marker_cluster)
         for (i,loc) in enumerate(crds):
-        	folium.CircleMarker(location = [loc[0], loc[1]], radius = 5, fill = True, fill_color = 'blue', popup=crds[i] , tooltip = sources[i]).add_to(m) 
+        	folium.CircleMarker(location = [loc[0], loc[1]], radius = 5, fill = True, fill_color = 'blue', popup=crds[i] , callback=callbackCB, tooltip = sources[i]).add_to(m)
         #fmc = FastMarkerCluster(data=crds,callback=callback, control=True).add_to(m)
 
         st.session_state.map = m  # Save the map in the session state
@@ -57,7 +58,10 @@ function (row) {
 	return marker;
 };
 """
+callbackCB = """
+print("CALLBACK")
 
+"""
 
 vendorName = ''
 

@@ -4,4 +4,4 @@ pyproj
 lxml
 bs4
 streamlit_folium
-
+pyperclip
